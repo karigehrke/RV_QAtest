@@ -1,0 +1,27 @@
+{
+  "name": "RV_QA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^2.46.0",
+    "mocha": "^5.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test.js --timeout 20000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karigehrke/RV_QA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karigehrke/RV_QA/issues"
+  },
+  "homepage": "https://github.com/karigehrke/RV_QA#readme"
+}
