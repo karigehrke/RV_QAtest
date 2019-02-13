@@ -71,12 +71,12 @@ describe('Test 3: Credit Card Image Present', function () {
 // Test 4: Make sure that the headline text is using the correct font
 describe('Test 4: Headline Text', function () {
 
-    it('Should have the "Find the Perfect Credit Card for You" headline font family as "sofiaproBold, Arial, sans-serif"', async function () {
+    it('Should have the "Find the Perfect Credit Card for You" headline font family as "sofiaproBold, arial, sans-serif"', async function () {
         await driver.get('https://www.creditcards.com');
 
         // Finds the headline by its class name then retrieves the CSS value for its font-family
         // We expect the font family found to match what we have specified
         var headerFont = await driver.findElement(By.className('homePage-hero__headline')).getCssValue("font-family");
-        await expect(headerFont).to.equal('sofiaproBold, Arial, sans-serif');
+        await expect(headerFont).to.equal('sofiaproBold, arial, sans-serif');
     });
 });
