@@ -9,6 +9,7 @@ RV_QAtest demonstrates my knowledge of QA testing for Red Ventures.
 **Pre-Condition:** Access to Chrome Browser
 
 
+
 **Test Case:** Footer Link Functionality
 
 **Description/Why:** The footer contains the "fine print" of a website and important links to answer more in depth questions a user may have and provide more specific information on a topic. If the footer links do not function as expected, the business may lose potential new customers and opportunities to resolve issues with clients to build a positive user experience. 
