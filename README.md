@@ -4,19 +4,17 @@ RV_QAtest demonstrates my knowledge of QA testing for Red Ventures.
 
 ## Tests Run
 
-**Website Tested:** https://www.creditcards.com/\
+**Website Tested:** https://www.creditcards.com/ \
 **Pre-Condition:** Access to Chrome Browser
 
 **Test Case:** Footer Link Functionality\
-**Description/Why:** The footer contains the "fine print" of a website and important links to answer more in depth questions a user may have and provide more specific information on a topic. If the footer links do not function as expected, the business may lose potential new customers and opportunities to resolve issues with clients to build a positive user experience.\ 
+**Description/Why:** The footer contains the "fine print" of a website and important links to answer more in depth questions a user may have and provide more specific information on a topic. If the footer links do not function as expected, the business may lose potential new customers and opportunities to resolve issues with clients to build a positive user experience.\
 **Expected Result:** The "Contact Us" link should reroute to the "Contact Us" page\
-**Status:** Pass\
+**Status:** Pass
 
 **Test Case:** Navbar Functionality\
-**Description/Why:** The Navbar is where users look to navigate through an entire site and find what they are searching for quickly and efficiently. If the Navbar links do not function as expected, the business will lose possible conversions and returning customers.\ 
-
-**Expected Result:** The Navbar link should have a dropdown menu with links that will reroute to the specified page upon click
-
+**Description/Why:** The Navbar is where users look to navigate through an entire site and find what they are searching for quickly and efficiently. If the Navbar links do not function as expected, the business will lose possible conversions and returning customers.\
+**Expected Result:** The Navbar link should have a dropdown menu with links that will reroute to the specified page upon click\
 **Status:** Pass
 
 
